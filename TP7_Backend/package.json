@@ -1,0 +1,17 @@
+{
+  "name": "mis_dependencias",
+  "version": "1.0.0",
+  "description": "tp7_backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scheiber Paula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "rootpath": "^0.1.2"
+  }
+}
